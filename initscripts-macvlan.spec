@@ -1,10 +1,10 @@
-Name:		initscripts-macvlan
-Version:	0.1
-Release:	3
-BuildArch:	noarch
-Summary:	macvlan ifup/down scripts
-License:	GPLv2 and GPLv2+
-URL:		https://github.com/eugenepaniot/initscripts-macvlan
+Name:       initscripts-macvlan
+Version:    0.1
+Release:    3
+BuildArch:  noarch
+Summary:    macvlan ifup/down scripts
+License:    GPLv2 and GPLv2+
+URL:        https://github.com/eugenepaniot/initscripts-macvlan
 
 Source:		%{name}-%{version}.tar.gz
 
